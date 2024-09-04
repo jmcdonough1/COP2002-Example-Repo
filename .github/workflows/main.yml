@@ -1,0 +1,7 @@
+echo "# practice-assignment-hello-world-jmcdonough1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SF-Python/practice-assignment-hello-world-jmcdonough1.git
+git push -u origin main
